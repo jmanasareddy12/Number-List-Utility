@@ -1,5 +1,3 @@
-Here’s a clean, resume-friendly README description you can put directly in your GitHub repo. I’ll keep it professional but clear, like something an interviewer can understand quickly.
-
 📘 Number List Utility Tool
 
 A simple Python command-line application that allows users to create and perform operations on a list of numbers.
